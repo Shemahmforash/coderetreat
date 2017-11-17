@@ -12,4 +12,4 @@ python test_game_of_life.py
 
 ## Dependencies
 This starting point makes use of **unittest** from python's standard library, so it has no external dependencies.
-In case you need external dependencies, it's useful to create a virtual environment first. To do so you can tools such as [pipenv](https://docs.pipenv.org/) or [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/).
+In case you need external dependencies, it's useful to create a virtual environment first. To do so you can use tools such as [pipenv](https://docs.pipenv.org/) or [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/).
