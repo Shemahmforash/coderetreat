@@ -7,7 +7,7 @@ log = logging.getLogger(__name__)
 
 
 class GameOfLifeTestCase(unittest.TestCase):
-    def test_game_of_lie(self):
+    def test_game_of_life(self):
         self.assertTrue(game_of_life)
 
 
